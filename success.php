@@ -26,6 +26,6 @@
                 }, 1000);
                 document.getElementById("alert").style.display = "";
             }
-        </script> 
+        </script>
     </body>
 </html>
